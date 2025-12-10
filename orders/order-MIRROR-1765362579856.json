@@ -1,0 +1,30 @@
+{
+  "orderId": "MIRROR-1765362579856",
+  "customer": {
+    "name": "Rachel Mong'are",
+    "phone": "+254794439669",
+    "county": "kiumu",
+    "town": "jhfg",
+    "landmark": "Not specified",
+    "fullAddress": "jhfg, kiumu (Near Not specified)"
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "Modern Frameless Mirror",
+      "price": 3500,
+      "quantity": 1,
+      "size": "3x3",
+      "color": "White",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "itemTotal": 3500
+    }
+  ],
+  "subtotal": 3500,
+  "discount": 700,
+  "shipping": 500,
+  "total": 3300,
+  "paymentMethod": "Cash on Delivery",
+  "orderDate": "Wednesday, 10 December 2025 at 13:29",
+  "timestamp": "2025-12-10T10:29:39.856Z"
+}
